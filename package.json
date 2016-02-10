@@ -1,0 +1,17 @@
+{
+  "name": "change-cert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "co": "4.6.0",
+    "heroku-client": "2.4.0",
+    "yargs": "3.32.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
