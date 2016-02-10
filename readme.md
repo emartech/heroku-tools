@@ -4,7 +4,7 @@
 Change certificate on multiple Heroku application. If you choose the "staging" application type then only those applications will be updated which have `-stage` or `-staging` postfix.
 
 ```
-Usage: node change-cert [options]
+Usage: node batch-change-cert [options]
 
 Options:
   --heroku_api_key, -k     Heroku api key                    [string] [required]
